@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".SobreEmpresaActivity" />
         <activity android:name=".SobreServicosActivity" />
-        <activity android:name=".SobreClientesActivity"></activity>
+        <activity android:name=".SobreClientesActivity" />
+        <activity android:name=".SobreContatoActivity"></activity>
     </application>
 
 </manifest>
